@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+CONTEXT_PATH = "api/v1/"
+
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     # Agrega otros orígenes permitidos si es necesario
