@@ -22,7 +22,7 @@ $ pipenv run dev
 $ python manage.py runserver
 ```
 
-
+## Open Video portafolio  https://www.dropbox.com/scl/fo/a76bxosy8l58g26vq0vtc/h?rlkey=zcbde0eppezit1iy517yjwo6m&dl=0
 
 
 ## Open swagger http://127.0.0.1:8000/swagger/
